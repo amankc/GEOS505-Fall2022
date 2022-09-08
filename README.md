@@ -10,7 +10,7 @@ Goal2:
 
 Goal3:
  
- ##Smart Goals
+ ## Smart Goals
  | Letter | Descrption |
  |--------|------------|
  | S       | Specific |
