@@ -2,4 +2,4 @@
 
 ## Aman KC 
 
-Email: [amankc@u.boisestate.edu](amankc@u.boisestate.edu)
+Email: [amankc@u.boisestate.edu](mailto: amankc@u.boisestate.edu)
