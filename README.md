@@ -17,5 +17,5 @@ Goal3:
  | M | Measurable |
  | A | Achievable |
  | R | Relevant |
- | T | Tine-bound |
+ | T | Time-bound |
  
