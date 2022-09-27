@@ -4,12 +4,7 @@
 
 Email: [amankc@u.boisestate.edu](mailto:amankc@u.boisestate.edu)
 
-Goal1:
 
-Goal2:
-
-Goal3:
- 
  ## Smart Goals
  | Letter | Descrption |
  |--------|------------|
